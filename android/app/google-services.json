@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786070655054",
+    "project_id": "messagenotifier-e5b2b",
+    "storage_bucket": "messagenotifier-e5b2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786070655054:android:8d4c6396795d2f9b88b31f",
+        "android_client_info": {
+          "package_name": "com.example.message_notifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786070655054-phppr9uu77huo9d2t4fj2k4ek7e5k536.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLm9INE45nuetMJpS9b-8nXKKvu5goXW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786070655054-phppr9uu77huo9d2t4fj2k4ek7e5k536.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
